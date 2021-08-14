@@ -1,0 +1,13 @@
+.wrap {
+    display: flex;
+    text-align: left;
+}
+.wrap > div {
+    width: 50%;
+}
+.comments-box{
+    background: lightblue;
+}
+.chosen-one {
+    background: lightgrey;
+}
